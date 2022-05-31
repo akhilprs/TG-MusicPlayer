@@ -19,7 +19,7 @@
 
 <details>
 
-  <summary>⚡ 𝗗𝗲𝗽𝗹𝗼𝘆 𝘁𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 ⚡</summary>
+  <summary> 𝗗𝗲𝗽𝗹𝗼𝘆 𝘁𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 </summary>
 
 ### I would suggest you to host this on Europe server for better quality and less crashes.
 
@@ -29,7 +29,7 @@
 
 <details>
 
-  <summary>⚡ 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 ⚡ </summary>
+  <summary> 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 </summary>
 
 ### With XTZ Heroku Bot, now it is possible to deploy without leaving Telegram. Remember choose Europe server for better quality and less crashes.
 
