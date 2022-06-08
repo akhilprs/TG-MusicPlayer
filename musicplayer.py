@@ -46,7 +46,7 @@ LIVE_CHATS = []
 # starting the bot in pm
 
 
-START_TEXT = """Hello {firstname}, I am superdry music player made from opek source code running
+START_TEXT = """Hello {firstname}, I am superfast music player made from open source code running
 on lag free server which make me play music for you without any lag.
 
 I am supported by [BlueCode](https://telegram.dog/TheBlueCode) ❤️✨
