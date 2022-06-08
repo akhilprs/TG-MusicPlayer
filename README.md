@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>TG Music Player</b>
+  <b>TG Music Player 2.0</b>
 </h1>
 <p align="center">
   <a href="#"><img src="https://te.legra.ph/file/f39b3713bda21fdb38e2d.jpg" width="300" height="200"></a> </br>
