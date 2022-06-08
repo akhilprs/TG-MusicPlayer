@@ -1,1 +1,1 @@
-worker: python3 -m MusicPlayer
+worker: python3 musicplayer.py
