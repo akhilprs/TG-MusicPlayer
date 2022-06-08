@@ -32,9 +32,9 @@
       "required": true,
       "value": "2102783671"
     },
-    "BOT_USERNAME" {
+    "BOT_USERNAME": {
       "description": "your bot Username without @",
       "required": ""
     
-}
+   }
 }
