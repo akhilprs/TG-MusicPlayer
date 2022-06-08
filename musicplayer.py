@@ -22,7 +22,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from pyrogram.errors import UserAlreadyParticipant, UserNotParticipant
 from helpers.queues import QUEUE, add_to_queue, get_queue, clear_queue, pop_an_item
-from helpers.admin_check import *
+from helpers.admin import *
 from helpers import database.mongo
 
 bot = Client(
