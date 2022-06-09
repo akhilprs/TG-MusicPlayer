@@ -13,7 +13,13 @@
 - Python 3.10.0
 - [NodeJS](https://nodesource.com/)
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
-- [MongoDB](https://cloud.mongodb.com/)(optional)
+- [MongoDB](https://cloud.mongodb.com/) (optional)
+
+## major changes in 2.0
+
+- added video 📷 stream.
+- removed unnecessary vars.
+- MongoDb made optional.
 
 ## Installing your own bot
 
