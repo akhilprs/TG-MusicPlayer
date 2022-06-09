@@ -38,7 +38,7 @@ aj = PyTgCalls(client)
 
 OWNER_ID = int(os.environ["OWNER_ID"])
 SUPPORT = os.environ["SUPPORT"]
-BOT_USERNAME = int(os.environ["BOT_USERNAME"])
+BOT_USERNAME = (os.environ["BOT_USERNAME"])
 MONGO_DB = int(is.environ["MONGO_DB"])
 
 LIVE_CHATS = []
