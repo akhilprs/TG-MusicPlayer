@@ -13,7 +13,7 @@
 - Python 3.10.0
 - [NodeJS](https://nodesource.com/)
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
-- [MongoDB](https://cloud.mongodb.com/)
+- [MongoDB](https://cloud.mongodb.com/)(optional)
 
 ## Installing your own bot
 
