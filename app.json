@@ -7,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram String Session of assistant account. Get it from @StringFatherBot",
+      "description": "Pyrogram String Session of assistant account.",
       "required": true
     },
     "BOT_TOKEN": {
