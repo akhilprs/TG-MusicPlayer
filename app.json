@@ -1,14 +1,13 @@
 {
   "name": "TG Music Player",
-  "description": "Open Source music bot code to make your own music bot. Maintained by Akhil.",
+  "description": "Open Source Code to make your own music bot for your Telegram groups. Maintained by Akhil.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://te.legra.ph/file/f39b3713bda21fdb38e2d.jpg",
   "repository": "https://github.com/akhilprs/TG-MusicPlayer",
   "stack": "container",
   "env": {
-    },
-     "SESSION_NAME": {
-      "description": "Pyrogram String Session of assistant account.",
+    "SESSION_NAME": {
+      "description": "Pyrogram String Session of assistant account. Get it from @StringFatherBot",
       "required": true
     },
     "BOT_TOKEN": {
@@ -16,11 +15,11 @@
       "required": true
     },
     "API_ID": {
-      "description": "API_ID from telegram web",
+      "description": "API_ID from my.telegram.org/apps",
       "required": true
     },
     "API_HASH": {
-      "description": "API_HASH from telegram web",
+      "description": "API_HASH from my.telegram.org/apps",
       "required": true
     },
     "SUPPORT": {
@@ -32,10 +31,12 @@
       "description": "Your Telegram ID",
       "required": true,
       "value": "2102783671"
+
     },
     "BOT_USERNAME": {
-      "description": "your bot Username without @",
+      "description": "username of your bot without @",
       "required": true
-    
+ 
    }
-}
+  }
+ }
