@@ -6,7 +6,8 @@
   "repository": "https://github.com/akhilprs/TG-MusicPlayer",
   "stack": "container",
   "env": {
-    "SESSION_NAME": {
+    },
+     "SESSION_NAME": {
       "description": "Pyrogram String Session of assistant account.",
       "required": true
     },
